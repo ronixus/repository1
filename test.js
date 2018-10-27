@@ -1,3 +1,3 @@
 function testJavaScriptCallFromBlogger {
-  alert ("hello");
+  alert ('hello2');
 }
